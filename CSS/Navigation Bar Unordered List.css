@@ -1,0 +1,12 @@
+/* ... because I can never remember all of the list-style-* rules */
+nav ul
+{
+    list-style-image:none;
+    list-style-position:outside;
+    list-style-type:none;
+}
+
+nav ul li
+{
+    float:left;
+}
