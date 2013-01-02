@@ -12,3 +12,4 @@ go
 ALTER PROCEDURE sp_MYPROC
 
 -- ...
+go
