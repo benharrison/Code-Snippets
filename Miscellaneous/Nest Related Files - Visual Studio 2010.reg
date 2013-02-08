@@ -1,0 +1,66 @@
+Windows Registry Editor Version 5.00
+
+; Nests related files in the Visual Studio Solution Explorer.
+
+; - Default.aspx
+;   + Default.aspx.cs
+;   + Default.aspx.css
+;   + Default.aspx.js
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.ascx]
+"RelationType"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.ascx\.cs]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.ascx\.css]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.ascx\.js]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.ascx\.vb]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.ascx\.xml]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.ascx\.xslt]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{FAE04EC0-301F-11d3-BF4B-00C04F79EFBC}\RelatedFiles\.ascx]
+".designer.cs"=dword:00000002
+".cs"=dword:00000002
+".js"=dword:00000002
+".css"=dword:00000002
+".xslt"=dword:00000002
+".xml"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.aspx]
+"RelationType"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.aspx\.cs]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.aspx\.css]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.aspx\.js]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.aspx\.vb]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.aspx\.xml]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{E24C65DC-7377-472b-9ABA-BC803B73C61A}\RelatedFiles\.aspx\.xslt]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\Projects\{FAE04EC0-301F-11d3-BF4B-00C04F79EFBC}\RelatedFiles\.aspx]
+".designer.cs"=dword:00000002
+".cs"=dword:00000002
+".js"=dword:00000002
+".css"=dword:00000002
+".xslt"=dword:00000002
+".xml"=dword:00000002
