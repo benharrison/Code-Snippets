@@ -1,0 +1,4 @@
+Under Tools -> Options
+
+- Text Editor -> All Languages -> "Line Numbers"
+- Projects and Solutions -> "Track Active Item in Solution Explorer"
