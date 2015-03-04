@@ -2,3 +2,4 @@ Under Tools -> Options
 
 - Text Editor -> All Languages -> "Line Numbers"
 - Projects and Solutions -> "Track Active Item in Solution Explorer"
+- Tools -> Options -> Environment -> General. Change the "items shown in recently used list" to 24 (the maximum).
